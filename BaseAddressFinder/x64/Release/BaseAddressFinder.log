@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BaseAddressFinder.vcxproj -> D:\Modding\BaseAddressFinder\x64\Release\BaseAddressFinder.exe
